@@ -1,2 +1,4 @@
 # test
-vsc test
+*hello
+*world
+
